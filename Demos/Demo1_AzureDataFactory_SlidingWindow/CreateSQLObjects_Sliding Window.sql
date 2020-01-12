@@ -39,7 +39,7 @@ This script is given "As Is" with no warranties and plenty of caveats. Use at yo
 -- User-defined variables
 ----------------------------------------------------------------------- 
 
--- Step 1: Create a 
+-- Step 1: Create a Table
 --==============================================
 -- This notebook uses the sample WideWorldImporters sample database in SQL 2019. 
 -- The database can be downloaded at the GitHub repository SQL Server Demos - World Wide Importers.
@@ -54,6 +54,16 @@ CREATE TABLE [dbo].[FactWindowHour](
      [MyNotes] [varchar](50) NOT NULL
 ) ON [PRIMARY]
 
+
+-- Step 2: Insert Values into the table.
+
+
+-- What values are in there now
+
+Select * from [dbo].[FactWindowHour]
+GO
+
+Insert Values
 USE [AdventureworksLT]
 GO
 
@@ -63,6 +73,7 @@ INSERT INTO [dbo].[FactWindowHour] ([DateTimeEvent],[Dimension1Key],[Dimension2K
      VALUES (getdate(),1,2,'FirstLoad1')
 GO
 
+-- What is there now.
 Select * from [dbo].[FactWindowHour]
 GO
 
