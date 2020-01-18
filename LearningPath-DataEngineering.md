@@ -135,7 +135,24 @@ Links to be sorted
 
 [Tutorial: Transform data using mapping data flows](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow)
 
-[]()
+[Advanced Threat Protection for Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-threat-detection-overview)
+
+[Advanced data security for Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-advanced-data-security)
+
+[Azure SQL Database and SQL Data Warehouse data discovery & classification](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-data-discovery-and-classification?tabs=azure-t-sql)
+
+[SQL Vulnerability Assessment service helps you identify database vulnerabilities](https://docs.microsoft.com/en-us/azure/sql-database/sql-vulnerability-assessment)
+
+[Security controls for Azure SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-security-controls)
+
+[SQL Database Audit Log Format](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-audit-log-format)
+
+
+[Run a web application in multiple Azure regions for high availability](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region)
+
+[Use auto-failover groups to enable transparent and coordinated failover of multiple databases](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auto-failover-group?tabs=azure-powershell)
+
+[Tutorial: Add an Azure SQL Database single database to a failover group](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-failover-group-tutorial?tabs=azure-portal)
 
 []()
 
@@ -144,4 +161,9 @@ Links to be sorted
 []()
 
 []()
+
+[]()
+
+[]()
+
 
