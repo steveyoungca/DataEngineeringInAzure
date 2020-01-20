@@ -154,16 +154,16 @@ Links to be sorted
 
 [Tutorial: Add an Azure SQL Database single database to a failover group](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-single-database-failover-group-tutorial?tabs=azure-portal)
 
-[]()
+[Alert and monitor data factories by using Azure Monitor](https://docs.microsoft.com/en-us/azure/data-factory/monitor-using-azure-monitor)
 
-[]()
+[Design to Survive Failures (Building Real-World Cloud Apps with Azure)](https://docs.microsoft.com/en-us/aspnet/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/design-to-survive-failures)
 
-[]()
+[O365 - Set the password expiration policy for your organization](https://docs.microsoft.com/en-CA/Office365/Admin/manage/set-password-expiration-policy?WT.mc_id=365AdminCSH&view=o365-worldwide)
 
-[]()
+[O365 - Set up multi-factor authentication](https://docs.microsoft.com/en-us/office365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide)
 
-[]()
+[Configure multi-factor authentication for SQL Server Management Studio and Azure AD](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-ssms-mfa-authentication-configure)
 
-[]()
+[Using Multi-factor AAD authentication with Azure SQL Database and Azure SQL Data Warehouse (SSMS support for MFA)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-ssms-mfa-authentication)
 
 
