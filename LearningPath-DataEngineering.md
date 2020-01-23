@@ -1,16 +1,16 @@
-#Learning Path Data Engineering in Azure
+# Learning Path Data Engineering in Azure
 
 As technology professionals, we are working during some of the most challenging times.  Not only is the pace of change increasing, but keeping up with the volume of new cloud-based products and services is becoming more difficult.  To survive in this environment, we must employ various learning techniques, and this **Learning Path** is an example of **Guided Technical Enablement**.  It provides a structure for quality curated content that a student can use to start  mastering a topic.
 
 
 
 
-Links to be sorted
+## Links to be sorted
 
 
 [2 Hour MSLearn Course - Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/)
 
-##Azure Data Factory
+## Azure Data Factory
 
 [Azure Data Factory documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
 
