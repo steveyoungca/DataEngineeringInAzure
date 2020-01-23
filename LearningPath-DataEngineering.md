@@ -180,6 +180,16 @@ Links to be sorted
 
 [Quickstart: Create an organization or project collection](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops)
 
+
+
+[Announcing auto-shutdown for VMs using Azure Resource Manager](https://azure.microsoft.com/en-us/blog/announcing-auto-shutdown-for-vms-using-azure-resource-manager/)
+
+[Start/Stop VMs during off-hours solution in Azure Automation See - Scenario 1: Start/Stop VMs on a schedule but other resources can use this also](https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management)
+
+[Quickstart: Pause and resume compute for an Azure SQL Data Warehouse in the Azure portal](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/pause-and-resume-compute-portal)
+
+
+
 []()
 
 []()
