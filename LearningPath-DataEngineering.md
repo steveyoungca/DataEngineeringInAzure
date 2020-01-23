@@ -127,6 +127,9 @@ More information will be added when available..
 
 Links to be sorted
 
+
+[2 Hour MSLearn Course - Azure for the Data Engineer](https://docs.microsoft.com/en-us/learn/paths/azure-for-the-data-engineer/)
+
 ##Azure Data Factory
 
 [Azure Data Factory documentation](https://docs.microsoft.com/en-us/azure/data-factory/)
@@ -166,4 +169,32 @@ Links to be sorted
 
 [Using Multi-factor AAD authentication with Azure SQL Database and Azure SQL Data Warehouse (SSMS support for MFA)](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-ssms-mfa-authentication)
 
+
+[Backup and restore in Azure SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/backup-and-restore)
+
+[Use auto-failover groups to enable transparent and coordinated failover of multiple databases](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-auto-failover-group?tabs=azure-powershell)
+
+[Alert and monitor data factories by using Azure Monitor](https://docs.microsoft.com/en-us/azure/data-factory/monitor-using-azure-monitor)
+
+[Source control in Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/source-control)
+
+[Quickstart: Create an organization or project collection](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/create-organization?view=azure-devops)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
 
